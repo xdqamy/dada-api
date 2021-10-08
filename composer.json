@@ -1,0 +1,14 @@
+{
+    "name": "object/dada-api",
+    "type": "dev",
+    "require": {
+        "easyswoole/http-client": "^1.5",
+        "easyswoole/spl": "^1.4"
+    },
+    "authors": [
+        {
+            "name": "soysauce",
+            "email": "xdqamy@163.com"
+        }
+    ]
+}
